@@ -109,12 +109,12 @@ Push and open a Pull Request
 
 🧩 Contribution Ideas       
 
-Improve UI/UX (Tkinter redesign)          
-Add search functionality          
-Add export/import encrypted backups            
-Implement multi-user support           
-Add dark mode 🌙           
-Improve encryption handling or key management     
+- Improve UI/UX (Tkinter redesign)  
+- Add search functionality          
+- Add export/import encrypted backups            
+- Implement multi-user support           
+- Add dark mode 🌙           
+- Improve encryption handling or key management     
 
 
 
@@ -122,6 +122,9 @@ Improve encryption handling or key management
 This is an offline-first tool                     
 If you forget your master password → data cannot be recovered                        
 Always keep backups of encrypted files
+
+
+
 
 
 📜 License
